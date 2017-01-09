@@ -1,2 +1,4 @@
 # the-holder-v1.0
-the program contains a brute force file and a password generetor 
+# Black CaT XIII
+the program contains a facebook brute-forcer file and a password generetor 
+made with ruby by YOUSSEF MHAMDI  
